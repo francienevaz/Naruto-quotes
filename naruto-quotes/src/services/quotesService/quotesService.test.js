@@ -1,5 +1,6 @@
 import {rest} from 'msw';
 import {setupServer} from 'msw/node';
+
 import {getQuote} from './quotesService';
 
 const response = {test: 'testing'};
