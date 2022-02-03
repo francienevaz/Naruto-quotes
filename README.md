@@ -1,4 +1,4 @@
-## Naruto's quotes generator
+## Naruto's quotes generator - Client-side
 
 <img src='/public/Naruto-img.png'>
 
@@ -20,4 +20,8 @@ $ npm start
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## About more:
+<a href="https://github.com/celso-henrique/">Celso-Henrique</a> <br>
+<a href="https://web.dio.me/home">DIO</a>
 
