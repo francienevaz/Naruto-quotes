@@ -21,7 +21,7 @@ $ npm start
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## About more:
+## Find out more about it:
 <a href="https://github.com/celso-henrique/">Celso-Henrique</a> <br>
 <a href="https://web.dio.me/home">DIO</a>
 
